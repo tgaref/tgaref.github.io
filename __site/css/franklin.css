@@ -80,8 +80,8 @@ html {
 /* on narrow device, reduce margins */
 @media (max-width: 480px) {
     .franklin-content {
-        padding-left: 6%;
-        padding-right: 6%; }
+        padding-left: 2%;	
+        padding-right: 2%; }
     }
 
 /* ==================================================================
@@ -187,6 +187,13 @@ html {
 /* ==================================================================
     IMAGES in CONTENT
 ================================================================== */
+
+@media (max-width: 480px){
+    .franklin-content img {
+    width: 40%;
+    text-align: center;
+    padding-left: 10%; }
+}
 
 .franklin-content img {
     width: 70%;

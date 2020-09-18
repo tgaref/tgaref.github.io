@@ -3,8 +3,8 @@
 ================================================================== */
 
 html {
-    font-family: Helvetica, Arial, sans-serif;
-    font-size  : 17px;
+    font-family: Fira Sans, Helvetica, Arial, sans-serif;
+    font-size  : 18px;
     color: #1c1c1c;
 }
 
@@ -27,7 +27,7 @@ html {
     padding-left: 0;
     border-radius: 10px; }
 
-.franklin-content .thumb {
+.franklin-content .container .thumb img {
     width: auto;
     max-width: 400px;
     max-height: 400px;
@@ -72,7 +72,7 @@ html {
 /* on wide screens, fix content width to a max value */
 @media (min-width: 940px) {
     .franklin-content {
-        width: 940px;
+        width: 1000px;
         margin-left: auto;
         margin-right: auto; }
     }
@@ -80,8 +80,8 @@ html {
 /* on narrow device, reduce margins */
 @media (max-width: 480px) {
     .franklin-content {
-        padding-left: 6%;
-        padding-right: 6%; }
+        padding-left: 2%;	
+        padding-right: 2%; }
     }
 
 /* ==================================================================
@@ -187,6 +187,12 @@ html {
 /* ==================================================================
     IMAGES in CONTENT
 ================================================================== */
+@media (max-withdth: 480px){
+    .franklin-content img {
+    width: 70%;
+    text-align: center;
+    padding-left: 10%; }
+}
 
 .franklin-content img {
     width: 70%;
@@ -261,3 +267,14 @@ code {
     margin-bottom: 5px;
     border-radius: 0 10px 10px 0;
     border-left: 5px solid #4C9CF1; }
+
+/* ==================================================================
+    HOME PAGE
+================================================================== */
+
+.franklin-content .bio {
+    font-size: 24px;
+    font-style: normal;
+    line-height: 1;
+    word-spacing: 5px;}    
+
