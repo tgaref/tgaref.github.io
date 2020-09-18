@@ -12,13 +12,13 @@ nav ul {
     margin-bottom: 0; }
 
 nav li {
-    display: inline-block; }
+    display: inline-block;}
 
 nav li a {
     color: #004de6;
     text-decoration: none;
-    font-size: 18px;
-    font-weight: bold;
+    font-size: 28px;
+    font-weight: normal;
     display: inline-block;
     float: center;
     padding-top: 10px;
@@ -41,7 +41,7 @@ header .blog-name {
     width: 35%;
     display: inline-block;
     text-align: left;
-    font-size: 18px;
+    font-size: 36px;
     font-family: "Lucida Console", Monaco, monospace;
     padding-top: 10px;}
 
