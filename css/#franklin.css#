@@ -34,11 +34,20 @@ html {
     padding-left: 0;
     border-radius: 10px; }
 
+@media (min-width: 840px) {
+    .franklin-content .container .thumb img {
+	width: auto;
+	max-width: 200px;
+	max-height: 200px;
+	padding-left: 0;
+	border-radius: 10px; }
+}
+
 @media (max-width: 500px) {
     .franklin-content .container .thumb img {
 	width: auto;
-	max-width: 300px;
-	max-height: 200px;
+	max-width: 180px;
+	max-height: 180px;
 	padding-left: 0;
 	border-radius: 10px; }
 }
@@ -285,7 +294,7 @@ code {
 
 @media (max-width: 500px) {
     .franklin-content .bio {
-	font-size: 18px;
+	font-size: 16px;
 	font-style: normal;
 	line-height: 1;
 	word-spacing: 5px;}    
