@@ -27,19 +27,17 @@ html {
     padding-left: 0;
     border-radius: 10px; }
 
-@media (min-width: 940px) {
-    .franklin-content .container .thumb img {
-	width: auto;
-	max-width: 400px;
-	max-height: 400px;
-	padding-left: 0;
-	border-radius: 10px; }
-}
+.franklin-content .container .thumb img {
+    width: auto;
+    max-width: 400px;
+    max-height: 400px;
+    padding-left: 0;
+    border-radius: 10px; }
 
 @media (max-width: 500px) {
     .franklin-content .container .thumb img {
 	width: auto;
-	max-width: 200px;
+	max-width: 300px;
 	max-height: 200px;
 	padding-left: 0;
 	border-radius: 10px; }
@@ -89,7 +87,7 @@ html {
     }
 
 /* on narrow device, reduce margins */
-@media (max-width: 300px) {
+@media (max-width: 500px) {
     .franklin-content {
         padding-left: 2%;	
         padding-right: 2%; }
@@ -277,7 +275,7 @@ code {
     HOME PAGE
 ================================================================== */
 
-@media (min-width: 900px) {
+@media (min-width: 980px) {
     .franklin-content .bio {
 	font-size: 24px;
 	font-style: normal;
@@ -287,7 +285,7 @@ code {
 
 @media (max-width: 500px) {
     .franklin-content .bio {
-	font-size: 20px;
+	font-size: 18px;
 	font-style: normal;
 	line-height: 1;
 	word-spacing: 5px;}    
