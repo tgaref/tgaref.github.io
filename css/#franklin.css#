@@ -3,7 +3,7 @@
 ================================================================== */
 
 html {
-    font-family: Fira Sans, Helvetica, Arial, sans-serif;
+    font-family: Fira Sans, Ubuntu, Helvetica, Arial, sans-serif;
     font-size  : 18px;
     color: #1c1c1c;
 }
@@ -33,6 +33,8 @@ html {
     max-height: 400px;
     padding-left: 0;
     border-radius: 10px; }
+
+@media (
 
 .franklin-content .footnote {
     position: relative;
@@ -187,12 +189,6 @@ html {
 /* ==================================================================
     IMAGES in CONTENT
 ================================================================== */
-@media (max-withdth: 480px){
-    .franklin-content img {
-    width: 70%;
-    text-align: center;
-    padding-left: 10%; }
-}
 
 .franklin-content img {
     width: 70%;
