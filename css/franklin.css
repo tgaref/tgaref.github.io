@@ -36,7 +36,7 @@ html {
 	border-radius: 10px; }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 300px) {
     .franklin-content .container .thumb img {
 	width: auto;
 	max-width: 200px;
@@ -89,7 +89,7 @@ html {
     }
 
 /* on narrow device, reduce margins */
-@media (max-width: 480px) {
+@media (max-width: 300px) {
     .franklin-content {
         padding-left: 2%;	
         padding-right: 2%; }
