@@ -27,7 +27,7 @@ My research interests include theoretical and algorithmic aspects of finite fiel
 1. T. Garefalakis, D. Panario, Polynomials over Finite Fields Free from Large and Small Degree Irreducible Factors, *J. of Algorithms* **44**(1), 98 -- 120, 2002. [PDF](../assets/publications/paper-ja-3.pdf)
 1. I.F. Blake, T. Garefalakis, On the security of the Digital Signature Algorithm, *Designs Codes and Cryptography*, **26**, 87 -- 96, 2002. [PDF](../assets/publications/final.pdf)
 1. S.R. Blackburn, T. Garefalakis, Cryptanalysis of a Cryptosystem due to Yoo, Hong, Lee, Lim, Yi and Sung, *Electronics Letters*, **37**(18), 1118 -- 1119, 2001. [PDF](../assets/publications/yhllys.pdf)
-1. T. Garefalakis, D. Panario, The Index Calculus Method Using Non-Smooth Polynomials, *Mathematics of Computation*,** 70**(235), 1253 -- 1264, 2001. [PDF](../assets/publications/dlpj.pdf)
+1. T. Garefalakis, D. Panario, The Index Calculus Method Using Non-Smooth Polynomials, *Mathematics of Computation*, **70**(235), 1253 -- 1264, 2001. [PDF](../assets/publications/dlpj.pdf)
 
 ## Conference Publications
 1. M. Christopoulou, T. Garefalakis, D. Panario, D. Thomson, The trace of an optimal normal element and low complexity normal bases, *Proc.of the Workshop on Coding and Cryptography*, 2007, INRIA, 79 -- 88, 2007.
