@@ -22,8 +22,6 @@ Greece \\
 
 Tel: +30 2810 393845 \\
 
-Email: tgaref@uoc.gr \\\\
-
+Email: tgaref@uoc.gr / tgaref@gmail.com \\\\
 
 Here is a short [CV](/assets/bio-english.pdf).
-
