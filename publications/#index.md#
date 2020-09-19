@@ -6,7 +6,7 @@
 My research interests include theoretical and algorithmic aspects of finite fields, cryptography, coding theory and combinatorics. 
 
 ## Journal Publications
-1. T. Garefalakis, G. Kapetanakis,  Further results on the Morgan-Mullen conjecture, *Designs Codes and Cryptography*, **87**, 2639 -- 2654, 2019. [PDF](../assets/publications/cn-bound-rev2.pdf)
+1. T. Garefalakis, G. Kapetanakis,  Further results on the Morgan-Mullen conjecture, *Designs Codes and Cryptography*, **87**, 2639 -- 2654, 2019. [PDF](../assets/publications/cn-bound-rev2.pdf) ![]()
 1. T. Garefalakis, G. Kapetanakis, On the existence of primitive completely normal bases of finite fields, *Journal of Pure and Applied Algebra*, **223**(3), 909 -- 921, 2019. [PDF](../assets/publications/pcnu-01.pdf)
 1. T. Garefalakis, G. Kapetanakis, Enumerating permutation polynomials, *Finite Fields and Applications*, **47**, 85 -- 93, 2017. [PDF](../assets/publications/enumeration-v2_7.pdf)
 1. F.E. Brochero Martinez, T. Garefalakis, L. Reis, E. Tzanaki, On the multiplicative order of the roots of $bX^{q +1} − aX^q + dX − c$, *Finite Fields and Applications*, **47**, 33 -- 45, 2017. [PDF](../assets/publications/highorder-r1.pdf)
@@ -27,7 +27,7 @@ My research interests include theoretical and algorithmic aspects of finite fiel
 1. T. Garefalakis, D. Panario, Polynomials over Finite Fields Free from Large and Small Degree Irreducible Factors, *J. of Algorithms* **44**(1), 98 -- 120, 2002. [PDF](../assets/publications/paper-ja-3.pdf)
 1. I.F. Blake, T. Garefalakis, On the security of the Digital Signature Algorithm, *Designs Codes and Cryptography*, **26**, 87 -- 96, 2002. [PDF](../assets/publications/final.pdf)
 1. S.R. Blackburn, T. Garefalakis, Cryptanalysis of a Cryptosystem due to Yoo, Hong, Lee, Lim, Yi and Sung, *Electronics Letters*, **37**(18), 1118 -- 1119, 2001. [PDF](../assets/publications/yhllys.pdf)
-1. T. Garefalakis, D. Panario, The Index Calculus Method Using Non-Smooth Polynomials, *Mathematics of Computation*,** 70**(235), 1253 -- 1264, 2001. [PDF](../assets/publications/dlpj.pdf)
+1. T. Garefalakis, D. Panario, The Index Calculus Method Using Non-Smooth Polynomials, *Mathematics of Computation*, **70**(235), 1253 -- 1264, 2001. [PDF](../assets/publications/dlpj.pdf)
 
 ## Conference Publications
 1. M. Christopoulou, T. Garefalakis, D. Panario, D. Thomson, The trace of an optimal normal element and low complexity normal bases, *Proc.of the Workshop on Coding and Cryptography*, 2007, INRIA, 79 -- 88, 2007.
@@ -35,5 +35,6 @@ My research interests include theoretical and algorithmic aspects of finite fiel
 1. T. Garefalakis, The generalized Weil pairing and the discrete logarithm problem on elliptic curves, *3rd Latin American Theoretical Informatics Conference*, Cancun, Mexico, *Lecture Notes in Computer Science*, **2286** (2002), 118 -- 130.
 1. T. Garefalakis, A New Family of Randomized Algorithms for List Accessing, *5th European Symposium on Algorithms*, Graz, Austria, *Lecture Notes in Computer Science*,**1284** (1997), 200 -- 216. [PDF](../assets/publications/final-mmtf.pdf)
 
-
+[pdf]: ../assets/pdf36dp.png
+[![pdf]]: ../assets/publications/cn-bound-rev2.pdf
 
