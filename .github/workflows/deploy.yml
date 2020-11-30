@@ -13,6 +13,8 @@ on:
     #    `BRANCH: master`
     branches:
       - dev
+    env:
+      - ACTIONS_ALLOW_UNSECURE_COMMANDS: true
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
