@@ -34,7 +34,3 @@ My research interests include theoretical and algorithmic aspects of finite fiel
 1. T. Garefalakis, C.J. Mitchell, Securing Personal Area Networks, *13th IEEE International Symposium on Personal, Indoor and Mobile Radio Communications*, Lisboa, Portugal, 2002, pp. 1257 -- 1259. [PDF](../assets/publications/perid_f.pdf)
 1. T. Garefalakis, The generalized Weil pairing and the discrete logarithm problem on elliptic curves, *3rd Latin American Theoretical Informatics Conference*, Cancun, Mexico, *Lecture Notes in Computer Science*, **2286** (2002), 118 -- 130.
 1. T. Garefalakis, A New Family of Randomized Algorithms for List Accessing, *5th European Symposium on Algorithms*, Graz, Austria, *Lecture Notes in Computer Science*,**1284** (1997), 200 -- 216. [PDF](../assets/publications/final-mmtf.pdf)
-
-[pdf]: ../assets/pdf36dp.png
-[![pdf]]: ../assets/publications/cn-bound-rev2.pdf
-
