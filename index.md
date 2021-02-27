@@ -9,7 +9,8 @@
 @@
 @@rightside
 @@bio
-I am a professor at the [Department of Mathematics and Applied Mathematics](http://math.uoc.gr/el/) of the [University of Crete](http://www.uoc.gr/). My research interests include theoretical and algorithmic aspects of finite fields, cryptography, coding theory and combinatorics.
+I am a professor at the [Department of Mathematics and Applied Mathematics](http://math.uoc.gr/el/) of the [University of Crete](http://www.uoc.gr/). My research interests include theoretical and algorithmic aspects of finite fields, cryptography, coding theory and combinatorics. \\ \\
+A short [CV](/assets/bio-english.pdf)
 @@
 ## Contact Details
 @@contact
@@ -26,4 +27,4 @@ Email: [tgaref@uoc.gr](mailto:tgaref@uoc.gr) and [tgaref@gmail.com](mailto:tgare
 @@
 @@
 
-Here is a short [CV](/assets/bio-english.pdf).
+
