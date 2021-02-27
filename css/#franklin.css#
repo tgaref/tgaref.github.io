@@ -35,6 +35,35 @@ html {
     padding-left: 0;
     border-radius: 10px; }
 
+.franklin-content .container .avatar img {
+    width: 100%;
+    max-width: 400px;
+    max-height: 400px;
+    padding-left: 0;
+    border-radius: 10px; }
+
+.franklin-content .container .bio {
+    width: 100%;
+    font-size: 24px;
+    font-style: normal;
+    line-height: 1;
+    word-spacing: 5px;    
+}
+
+.franklin-content .container .contact {
+    width: 0%;
+    font-size: 18px;
+    font-style: normal;
+    line-height: 1;
+    word-spacing: 5px;    
+}
+
+.franklin-content .container:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
 @media (max-width: 500px) {
     .franklin-content .container .thumb img {
 	width: auto;
@@ -162,7 +191,7 @@ html {
     text-decoration: none; }
 
 .franklin-content a:hover {
-    background: ; }
+    text-decoration: none; }
 
 /* ==================================================================
     HYPERREFS AND FOOTNOTES
