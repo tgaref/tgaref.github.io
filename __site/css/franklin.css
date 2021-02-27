@@ -42,7 +42,7 @@ html {
 }
 
 .franklin-content .container .bio {
-    font-size: 24px;
+    font-size: 23px;
     font-style: normal;
     line-height: 1;
     word-spacing: 5px;    
@@ -310,7 +310,7 @@ code {
 
 @media (min-width: 980px) {
     .franklin-content .bio {
-	font-size: 24px;
+	font-size: 22px;
 	font-style: normal;
 	line-height: 1;
 	word-spacing: 5px;}    
@@ -318,7 +318,7 @@ code {
 
 @media (max-width: 500px) {
     .franklin-content .bio {
-	font-size: 14px;
+	font-size: 12px;
 	font-style: normal;
 	line-height: 1;
 	word-spacing: 5px;}    
