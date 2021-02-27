@@ -4,27 +4,56 @@
 # Welcome
 
 @@container
-@@thumb
+@@avatar
 @@left ![](/assets/avatar.jpg) @@
 @@
-@@
-
+@@rightside
 @@bio
-I am a professor at the Department of Mathematics and Applied Mathematics, University of Crete.   My research interests include theoretical and algorithmic aspects of finite fields, cryptography, coding theory and combinatorics.
+I am a professor at the [Department of Mathematics and Applied Mathematics](http://math.uoc.gr/el/) of the [University of Crete](http://www.uoc.gr/).   My research interests include theoretical and algorithmic aspects of finite fields, cryptography, coding theory and combinatorics.
 @@
+**Contact**
+@@contact
 
-### Contact 
+~~~
+<table>
+  <tbody>
+	<tr>
+	  <th> Address:</th>
+	  <td>
+	    <address>
+		 Department of Mathematics and
+		 Applied Mathematics
+		 University of Crete
+		 70013 Heraklion
+		 Greece 
+	    </adress>
+	  </td>
+    </tr>
+	<tr>
+	  <th> Email:</th>
+	  <td>
+	    <a href="mailto:tgaref@uoc.gr">tgaref@uoc.gr</a>
+	    <a href="mailto:tgaref@gmail.com">tgaref@gmail.com</a>
+	</td>
+	</tr>
+	</tbody>
+</table>
+		
+
 Department of Mathematics and \\
 Applied Mathematics \\
 University of Crete \\
 70013 Heraklion \\
 Greece \\
-
 Tel: +30 2810 393845 \\
+Email: tgaref@uoc.gr / tgaref@gmail.com
+</table>
+~~~
+@@
+@@
+@@
 
-Email: tgaref@uoc.gr / tgaref@gmail.com \\\\
 
-[![An old rock in the desert](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.flickr.com/photos/beaurogers/31833779864/in/photolist-Qv3rFw-34mt9F-a9Cmfy-5Ha3Zi-9msKdv-o3hgjr-hWpUte-4WMsJ1-KUQ8N-deshUb-vssBD-6CQci6-8AFCiD-zsJWT-nNfsgB-dPDwZJ-bn9JGn-5HtSXY-6CUhAL-a4UTXB-ugPum-KUPSo-fBLNm-6CUmpy-4WMsc9-8a7D3T-83KJev-6CQ2bK-nNusHJ-a78rQH-nw3NvT-7aq2qf-8wwBso-3nNceh-ugSKP-4mh4kh-bbeeqH-a7biME-q3PtTf-brFpgb-cg38zw-bXMZc-nJPELD-f58Lmo-bXMYG-bz8AAi-bxNtNT)
+
 
 Here is a short [CV](/assets/bio-english.pdf).
-
