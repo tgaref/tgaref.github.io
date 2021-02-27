@@ -28,19 +28,16 @@ html {
     padding-left: 0;
     border-radius: 10px; }
 
-.franklin-content .container .thumb img {
-    width: auto;
+.franklin-content .container .avatar img {
+    width: 50%;
     max-width: 400px;
     max-height: 400px;
     padding-left: 0;
     border-radius: 10px; }
 
-.franklin-content .container .avatar img {
-    width: 100%;
-    max-width: 400px;
-    max-height: 400px;
-    padding-left: 0;
-    border-radius: 10px; }
+.franklin-content .container .rightside {
+    width:
+}
 
 .franklin-content .container .bio {
     width: 100%;
@@ -51,9 +48,9 @@ html {
 }
 
 .franklin-content .container .contact {
-    width: 0%;
+    width: 100%;
     font-size: 18px;
-    font-style: normal;
+    font-style: italic;
     line-height: 1;
     word-spacing: 5px;    
 }
