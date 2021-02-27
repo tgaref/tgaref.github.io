@@ -7,6 +7,7 @@
 @@avatar
 @@left ![](/assets/avatar.jpg) @@
 @@
+@@rightside
 @@bio
 I am a professor at the Department of Mathematics and Applied Mathematics, University of Crete.   My research interests include theoretical and algorithmic aspects of finite fields, cryptography, coding theory and combinatorics.
 @@
@@ -20,6 +21,7 @@ Greece \\
  \\
 Tel: +30 2810 393845 \\
 Email: tgaref@uoc.gr / tgaref@gmail.com
+@@
 @@
 @@
 
