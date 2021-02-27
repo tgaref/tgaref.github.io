@@ -20,6 +20,7 @@ nav li a {
     font-family: "Merriweather Sans", "Fira Sans Code", "Lucida Console", Monaco, monospace;
     font-size: 28px;
     font-weight: medium;
+    font-variant: small-caps;
     display: inline-block;
     float: center;
     padding-top: 10px;
