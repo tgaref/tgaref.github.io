@@ -6,6 +6,7 @@ html {
     font-family: Fira Sans, Ubuntu, Helvetica, Arial, sans-serif;
     font-size  : 18px;
     color: #1c1c1c;
+    background-color: #f5f4ef;
 }
 
 /* ==================================================================
@@ -97,7 +98,7 @@ html {
     TITLES
 ================================================================== */
 
-.franklin-content h1 { font-size: 24px; }
+.franklin-content h1 { font-size: 30px; }
 .franklin-content h2 { font-size: 22px; }
 .franklin-content h3 { font-size: 20px; }
 
@@ -161,7 +162,7 @@ html {
     text-decoration: none; }
 
 .franklin-content a:hover {
-    text-decoration: underline; }
+    text-decoration: none; }
 
 /* ==================================================================
     HYPERREFS AND FOOTNOTES

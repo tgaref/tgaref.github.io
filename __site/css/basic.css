@@ -15,10 +15,11 @@ nav li {
     display: inline-block;}
 
 nav li a {
-    color: #004de6;
+    color: #3b6581;
     text-decoration: none;
+    font-family: "Merriweather Sans", "Fira Sans Code", "Lucida Console", Monaco, monospace;
     font-size: 28px;
-    font-weight: normal;
+    font-weight: medium;
     display: inline-block;
     float: center;
     padding-top: 10px;
@@ -27,13 +28,13 @@ nav li a {
     padding-bottom:5px;
     margin-left:7px;
     margin-right:7px;
-    border-bottom: 2px solid #4C9CF1;
     transition: color 0.3s ease; }
 
 @media (max-width: 500px) {
     nav li a {
-	color: #004de6;
+	color: #3b6581;
 	text-decoration: none;
+	font-family: "Fira Sans", "Lucida Console", Monaco, monospace;
 	font-size: 16px;
 	font-weight: bold;
 	display: inline-block;
@@ -44,7 +45,6 @@ nav li a {
 	padding-bottom:5px;
 	margin-left:7px;
 	margin-right:7px;
-	border-bottom: 2px solid #4C9CF1;
 	transition: color 0.3s ease; }
 }
 
@@ -60,7 +60,7 @@ header .blog-name {
     display: inline-block;
     text-align: left;
     font-size: 36px;
-    font-family: "Lucida Console", Monaco, monospace;
+    font-family: "Fira Sans", "Lucida Console", Monaco, monospace;
     padding-top: 10px;}
 
 header .blog-name a {
@@ -68,8 +68,7 @@ header .blog-name a {
     text-decoration: none; }
 
 header li a:hover {
-    color: black;
-    border-bottom: 2px solid black; }
+    color: #a84400; }
 
 
 #menu-icon {

@@ -6,6 +6,7 @@ html {
     font-family: Fira Sans, Ubuntu, Helvetica, Arial, sans-serif;
     font-size  : 18px;
     color: #1c1c1c;
+    background-color: #f5f4ef;
 }
 
 /* ==================================================================
@@ -34,20 +35,11 @@ html {
     padding-left: 0;
     border-radius: 10px; }
 
-@media (min-width: 840px) {
-    .franklin-content .container .thumb img {
-	width: auto;
-	max-width: 200px;
-	max-height: 200px;
-	padding-left: 0;
-	border-radius: 10px; }
-}
-
 @media (max-width: 500px) {
     .franklin-content .container .thumb img {
 	width: auto;
-	max-width: 180px;
-	max-height: 180px;
+	max-width: 120px;
+	max-height: 120px;
 	padding-left: 0;
 	border-radius: 10px; }
 }
@@ -106,7 +98,7 @@ html {
     TITLES
 ================================================================== */
 
-.franklin-content h1 { font-size: 24px; }
+.franklin-content h1 { font-size: 30px; }
 .franklin-content h2 { font-size: 22px; }
 .franklin-content h3 { font-size: 20px; }
 
@@ -170,7 +162,7 @@ html {
     text-decoration: none; }
 
 .franklin-content a:hover {
-    text-decoration: underline; }
+    background: ; }
 
 /* ==================================================================
     HYPERREFS AND FOOTNOTES
@@ -294,7 +286,7 @@ code {
 
 @media (max-width: 500px) {
     .franklin-content .bio {
-	font-size: 16px;
+	font-size: 18px;
 	font-style: normal;
 	line-height: 1;
 	word-spacing: 5px;}    
