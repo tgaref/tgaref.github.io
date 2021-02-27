@@ -29,7 +29,7 @@ html {
     border-radius: 10px; }
 
 .franklin-content .container .avatar img {
-    width: auto;
+    width: 90%;
     float: left;
     max-width: 400px;
     max-height: 400px;
@@ -38,7 +38,7 @@ html {
 
 .franklin-content .container .rightside {
     width: 60%;
-    float: left;    
+    float: right;    
 }
 
 .franklin-content .container .bio {
@@ -126,9 +126,12 @@ html {
 
 .franklin-content h1 {
     font-size: 30px;
-    font-variant: small
+    font-variant: small-caps;
 }
-.franklin-content h2 { font-size: 22px; }
+.franklin-content h2 {
+    font-size: 22px;
+    font-variant: small-caps;
+}
 .franklin-content h3 { font-size: 20px; }
 
 .franklin-content h1, h2, h3, h4, h5, h6 {
