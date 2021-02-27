@@ -124,8 +124,14 @@ html {
     TITLES
 ================================================================== */
 
-.franklin-content h1 { font-size: 30px; }
-.franklin-content h2 { font-size: 22px; }
+.franklin-content h1 {
+    font-size: 30px;
+    font-variant: small-caps;
+}
+.franklin-content h2 {
+    font-size: 22px;
+    font-variant: small-caps;
+}
 .franklin-content h3 { font-size: 20px; }
 
 .franklin-content h1, h2, h3, h4, h5, h6 {

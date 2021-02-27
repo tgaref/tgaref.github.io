@@ -29,7 +29,7 @@ html {
     border-radius: 10px; }
 
 .franklin-content .container .avatar img {
-    width: 100%;
+    width: auto;
     float: left;
     max-width: 400px;
     max-height: 400px;
@@ -124,7 +124,10 @@ html {
     TITLES
 ================================================================== */
 
-.franklin-content h1 { font-size: 30px; }
+.franklin-content h1 {
+    font-size: 30px;
+    font-variant: small
+}
 .franklin-content h2 { font-size: 22px; }
 .franklin-content h3 { font-size: 20px; }
 
