@@ -3,7 +3,7 @@
 ================================================================== */
 
 html {
-    font-family: Fira Sans, Ubuntu, Helvetica, Arial, sans-serif;
+    font-family: Fira Sans Code, Ubuntu, Helvetica, Arial, sans-serif;
     font-size  : 18px;
     color: #1c1c1c;
     background-color: #f5f4ef;
@@ -29,15 +29,15 @@ html {
     border-radius: 10px; }
 
 .franklin-content .container .avatar img {
-    width: 90%;
+    width: 100%;
     float: left;
-    max-width: 400px;
-    max-height: 400px;
+    max-width: 300px;
+    max-height: 300px;
     padding-left: 0;
     border-radius: 10px; }
 
 .franklin-content .container .rightside {
-    width: 60%;
+    width: 70%;
     float: right;    
 }
 
