@@ -3,7 +3,7 @@
 ================================================================== */
 
 html {
-    font-family: Fira Sans Code, Ubuntu, Helvetica, Arial, sans-serif;
+    font-family: Fira Sans, Ubuntu, Helvetica, Arial, sans-serif;
     font-size  : 18px;
     color: #1c1c1c;
     background-color: #f5f4ef;
@@ -62,7 +62,40 @@ html {
 }
 
 @media (max-width: 500px) {
-    .franklin-content .container .thumb img {
+.franklin-content .container .avatar img {
+    width: 100%;
+    float: left;
+    max-width: 120px;
+    max-height: 120px;
+    padding-left: 0;
+    border-radius: 10px; }
+
+.franklin-content .container .rightside {
+    width: 70%;
+    float: right;    
+}
+
+.franklin-content .container .bio {
+    font-size: 16px;
+    font-style: normal;
+    line-height: 1;
+    word-spacing: 5px;    
+}
+
+.franklin-content .container .contact {
+    font-size: 13px;
+    font-style: italic;
+    line-height: 1;
+    word-spacing: 5px;    
+}
+
+.franklin-content .container:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.franklin-content .container .thumb img {
 	width: auto;
 	max-width: 120px;
 	max-height: 120px;
