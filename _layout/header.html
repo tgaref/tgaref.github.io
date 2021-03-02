@@ -1,11 +1,17 @@
-<header>
-<div class="blog-name"><a href="/">TG</a></div>
-<nav>
-  <ul>
-    <li><a href="/publications/">Research</a></li>
-    <li><a href="/teaching/">Teaching</a></li>
-    <li><a href="/misc/">Misc</a></li>
-  </ul>
-  <img src="/assets/hamburger.svg" id="menu-icon">
-</nav>
-</header>
+  <nav class="nav">
+    <div class="nav-left">
+      <a href="/" class="nav-item">Theodoulos Garefalakis</a>
+    </div>        
+    <div class="nav-right nav-menu">
+      <a href="/" class="nav-item">Home</a>
+      <a href="teaching" class="nav-item">Teaching</a>
+      <a href="research" class="nav-item">Research</a>
+    </div>
+  </nav>
+  <div class="container">
+    {{ if ishome }}
+    {{ insert index.html }}
+    {{ else }}
+    {{ insert page.html }}
+  </div>
+</div>
