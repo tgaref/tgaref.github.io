@@ -5,7 +5,8 @@ ishome = false
 @@block
 @@content
 ## Προηγουμενα εξαμηνα
---------
+---
+
 ### Προπτυχιακα Μαθηματα
 * Χειμερινό 2020: [ΜΕΜ112 Εισαγωγή στη Γραμμική Άλγεβρα](https://elearn.uoc.gr/course/view.php?id=2494) 
 * Εαρινό 2020: [ΜΕΜ103 Θεμέλια των Μαθηματικών](https://polygon.math.uoc.gr/1920/moodle/course/view.php?id=8#section-0)
