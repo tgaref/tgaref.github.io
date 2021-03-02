@@ -1,0 +1,43 @@
+<div class="section">
+  <div class="tile is-ancestor">
+    <div class="tile is-vertical is-parent is-4">
+      <div class="tile is-child">
+	<div class="avatar">
+	  <img src="assets/tgarefalakis.jpg">
+	</div>
+      </div>
+      <div class="tile is-child">	
+	<div class="content">
+	  <h3 class="title is-3"> Contact Details </h3>
+	  {{ insert ../content/home/contact.html }}
+	</div>
+      </div>
+    </div>
+    <div class="tile is-vertical is-ancestor">
+      <div class="tile is-child">
+	<div class="content">
+	  <h3 class="title is-3"> About me </h3>
+	  {{ insert ../content/home/bio.html }}
+	</div>
+      </div>
+      <div class="tile is-parent">
+	<div class="tile is-parent">
+	  <div class="content">
+	    <h3 class="title is-3"> <i class="fa fa-graduation-cap"></i> Education </h3>
+	    {{ for pos in education }}
+              <div class="box"> {{ fill pos }} </div>
+	    {{ end }}	      
+	  </div>
+	</div>
+	<div class="tile is-parent">
+	  <div class="content">
+	    <h3 class="title is-3"> <i class="fa fa-address-card"></i> Positions </h3>
+	    {{ for pos in positions }}
+              <div class="box"> {{ fill pos }} </div>
+	    {{ end }}
+	  </div>
+	</div>
+      </div>
+    </div>
+  </div>
+</div>

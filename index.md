@@ -1,30 +1,10 @@
-@def title = "Theodoulos Garefalakis"
-@def tags = ["syntax"]
++++
+title = "Welcome"
 
-# Welcome
+ishome = true
 
-@@container
-@@avatar
-@@left ![](/assets/avatar.jpg) @@
-@@
-@@rightside
-@@bio
-I am a professor at the [Department of Mathematics and Applied Mathematics](http://math.uoc.gr/el/) of the [University of Crete](http://www.uoc.gr/). My research interests include theoretical and algorithmic aspects of finite fields, cryptography, coding theory and combinatorics. \\ \\
-A short [CV](/assets/bio-english.pdf)
-@@
-## Contact Details
-@@contact
-Department of Mathematics \\
-and Applied Mathematics \\
-University of Crete \\
-70013 Heraklion \\
-Greece \\
-~~~
-<br>
-~~~
-Email: [tgaref@uoc.gr](mailto:tgaref@uoc.gr) and [tgaref@gmail.com](mailto:tgaref@gmail.com) 	
-@@
-@@
-@@
+education = ["1997 - 2000: Ph.D. Department of Computer Science, University of Toronto", "1995 - 1997: M.Sc., Department of Computer Science, University of Toronto", "1990 - 1995: B.S., Department of Computer Science, University of Crete"]
 
+positions = ["2019 - present: Professor, Department of Mathematics and Applied Mathematics, University of Crete", "2013 - 2019: Associate Professor, Department of Mathematics and Applied Mathematics, University of Crete", "2004 - 2013: Assistant Professor, Department of Mathematics, University of Crete"]
++++
 

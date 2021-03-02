@@ -1,17 +1,24 @@
-  <nav class="nav">
+<nav class="nav">
     <div class="nav-left">
       <a href="/" class="nav-item">Theodoulos Garefalakis</a>
     </div>        
     <div class="nav-right nav-menu">
       <a href="/" class="nav-item">Home</a>
-      <a href="teaching" class="nav-item">Teaching</a>
-      <a href="research" class="nav-item">Research</a>
+      <a href="/content/teaching/" class="nav-item">Teaching</a>
+      <a href="/content/research/" class="nav-item">Research</a>
     </div>
-  </nav>
-  <div class="container">
-    {{ if ishome }}
-    {{ insert index.html }}
-    {{ else }}
-    {{ insert page.html }}
+</nav>
+
+    
+<div class="container">
+  {{ ifdef title }}
+  <div class="block">
+    <h1 class="title is-1"> {{ fill title }} </h1>
+    <hr>
   </div>
+  {{ end }}
+
+  {{ if ishome }}
+    {{ insert index.html }}
+  {{ end }}
 </div>
