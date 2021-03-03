@@ -1,9 +1,18 @@
 <!-- CONTENT ENDS HERE -->
-    {{ if hasmath }}
-        {{ insert foot_katex.html }}
-    {{ end }}
-    {{ if hascode }}
-        {{ insert foot_highlight.html }}
-    {{ end }}
+<br>
+<footer class="footer">
+  <div class="content has-text-centered">
+      <p>
+	<i class="fa fa-copyright"></i> Theodoulos Garefalakis. Site built with <a href="https://www.franklinjl.org/">Franklin.jl</a> and <a href="https://bulma.io/">Bulma</a>.
+      </p>
+  </div>
+</footer>
+
+{{ if hasmath }}
+  {{ insert foot_katex.html }}
+{{ end }}
+{{ if hascode }}
+  {{ insert foot_highlight.html }}
+{{ end }}
   </body>
 </html>
