@@ -30,3 +30,7 @@ For instance:
 -->
 \newcommand{\R}{\mathbb R}
 \newcommand{\scal}[1]{\langle #1 \rangle}
+\newcommand{\box}[1]{
+@@box
+#1
+@@}
