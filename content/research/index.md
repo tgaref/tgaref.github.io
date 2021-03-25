@@ -4,7 +4,7 @@ ishome = false
 +++
 \newcommand{\pubWithLink}[2]{
 @@box 
-[#1   ~~~<i id=icon class="fa fa-download"></i> ~~~](#2)
+#1 [~~~<i id=icon class="fa fa-download"></i> ~~~](#2)
 
 @@}
 
