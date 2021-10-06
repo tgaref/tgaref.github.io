@@ -4,6 +4,9 @@ ishome = false
 +++
 @@block
 @@content
+
+\box{Χειμερινό 2021: [ΜΕΜ112 Εισαγωγή στη Γραμμική Άλγεβρα](https://polyhedron.math.uoc.gr/2122/moodle/course/view.php?id=16)
+
 ## Προηγουμενα εξαμηνα
 
 ### Προπτυχιακα Μαθηματα
