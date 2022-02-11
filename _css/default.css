@@ -55,6 +55,33 @@ nav .nav-left .nav-item {
     transition: color 0.3s ease;
 }
 
+.course-tabs > ul > li {
+    float: center;
+    padding-top: 5px;
+    padding-right:20px;
+    padding-left:20px;
+    padding-bottom:50px;
+    margin-left:0px;
+    margin-right:0px;
+    transition: color 0.5s ease;    
+}
+
+.course-tabs > ul > li.inactive > a{
+    text-decoration: none;
+    font-family: "Fira Sans", "Lucida Console", Monaco, monospace;
+    font-size: 26px;
+    font-weight: medium;
+    font-variant: small-caps;
+}
+
+.course-tabs > ul > li.active > a{
+    text-decoration: none;
+    font-family: "Fira Sans", "Lucida Console", Monaco, monospace;
+    font-size: 26px;
+    font-weight: medium;
+    font-variant: small-caps;
+    background-color: #acdcca;
+}
 
 .avatar img {
     width: 100%;

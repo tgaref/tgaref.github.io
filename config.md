@@ -13,6 +13,11 @@ The website_* must be defined for the RSS to work
 
 @def ishome = false
 
+@def iscourse = false
+@def isinfo = false
+@def iscalendar = false
+@def ismaterial = false
+
 @def div_content = "container"
 
 <!--

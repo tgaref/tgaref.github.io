@@ -1,3 +1,4 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <div class="container">
 <nav class="nav">
     <div class="nav-left">
@@ -20,4 +21,30 @@
   {{ if ishome }}
     {{ insert index.html }}
   {{ end }}
+
+  {{ if iscourse }}
+  <div class="tabs is-toggle is-fullwidth course-tabs">
+  <ul>
+    <li class={{ if isinfo }} "active" {{ else }} "inactive" {{ end }}>
+      <a href={{ fill info }}>
+        <span>Πληροφοριες</span>	
+      </a>
+    </li>
+    <li class={{ if iscalendar }} "active" {{ else }} "inactive" {{ end }}>
+      <a href={{ fill calendar }}>
+        <span>Ημερολογιο</span>
+      </a>
+    </li>
+    <li class={{ if ismaterial }} "active" {{ else }} "inactive" {{ end }}>
+      <a href={{ fill material }}>
+        <span>Διδακτικο Υλικο</span>
+      </a>
+    </li>
+  </ul>
+  </div>  
+  {{ end }}
 </div>
+
+<script>
+  $tabs-toggle-link-radius = 20px
+</script>
