@@ -22,7 +22,7 @@ material = "/content/teaching/cryptography/material"
 ### Ημερολόγιο μαθήματος
 
 \week{Εβδομάδα 1: 14/2/2022 - 20/2/2022}{
-Και η 1η εβδομάδα...}
+}
 
 @@
 @@
