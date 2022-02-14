@@ -16,7 +16,8 @@ material = "/content/teaching/cryptography/material"
  3. Δ. Μ. Πουλάκης, [*Κρυπτογραφία: η επιστήμη της ασφαλούς επικοινωνίας*](https://ziti.gr/vivlio/poylakis-dimitris-kryptografia/), εκδόσεις Ζήτη.
  4. Γ. Αντωνιάδης, Α. Κοντογεώργης, [*Πεπερασμένα σώματα και κρυπτογραφία*](https://repository.kallipos.gr/handle/11419/155), Κάλλιπος.
  5. Ε. Ζάχος, Α. Παγουρτζής, Π. Γροντάς, [*Υπολογιστική Κρυπτογραφία*](https://repository.kallipos.gr/handle/11419/5439), Κάλλιπος.
- 6. A. J. Menezes, P. C. van Oorschot, S. A. Vanstone, [*Handbook of Applied Cryptography*](http://www.cacr.math.uwaterloo.ca/hac/), CRC Press.
+ 6. M. Burmester, Σ. Γκρίτζαλης, Σ. Κάτσικας, Β. Χρυσικόπουλος, [*Σύγχρονη Κρυπτογραφία: Θεωρία και Εφαρμογές*](https://ekdoseis-papasotiriou.gr/products/9789607182760-burmester-mike-sugchroni-kruptografia), εκδόσεις Παπασωτηρίου.
+ 7. A. J. Menezes, P. C. van Oorschot, S. A. Vanstone, [*Handbook of Applied Cryptography*](http://www.cacr.math.uwaterloo.ca/hac/), CRC Press.
 
 ### Σύνδεσμοι
  - [International Association for Cryptologic Research](https://www.iacr.org/): Επιστημονική οργάνωση με σκοπό την προώθηση της έρευνας στην κρυπτογραλογία. Διατηρεί το ελεύθερο αποθετήριο προδημοσιεύσεων [ePrint Archive](https://eprint.iacr.org/).
