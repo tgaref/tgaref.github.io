@@ -3,55 +3,55 @@
 
 <url>
     <loc>localhost:8000/index.html</loc>
-    <lastmod>2022-02-15</lastmod>
+    <lastmod>2022-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>localhost:8000/content/teaching/index.html</loc>
-    <lastmod>2022-02-15</lastmod>
+    <lastmod>2022-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>localhost:8000/content/teaching/cryptography/index.html</loc>
-    <lastmod>2022-02-15</lastmod>
+    <lastmod>2022-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>localhost:8000/content/teaching/cryptography/material/index.html</loc>
-    <lastmod>2022-02-15</lastmod>
+    <lastmod>2022-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>localhost:8000/content/research/index.html</loc>
-    <lastmod>2022-02-15</lastmod>
+    <lastmod>2022-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>localhost:8000/content/teaching/cryptography/calendar/index.html</loc>
-    <lastmod>2022-02-15</lastmod>
+    <lastmod>2022-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>localhost:8000/content/home/contact/</loc>
-    <lastmod>2022-02-15</lastmod>
+    <lastmod>2022-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>localhost:8000/content/teaching/cryptography/assign-1/</loc>
-    <lastmod>2022-02-15</lastmod>
+    <lastmod>2022-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>localhost:8000/content/home/bio/</loc>
-    <lastmod>2022-02-15</lastmod>
+    <lastmod>2022-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
