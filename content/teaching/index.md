@@ -5,7 +5,7 @@ ishome = false
 @@block
 @@content
 
-\box{Χειμερινό 2021: [Α31 Κρυπτογραφία](/content/teaching/cryptography/)}
+\box{Εαρινό 2022: [Α31 Κρυπτογραφία](/content/teaching/cryptography/)}
 
 ## Προηγουμενα εξαμηνα
 
