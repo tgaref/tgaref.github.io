@@ -20,7 +20,7 @@ material = "/content/teaching/cryptography/material"
  7. A. J. Menezes, P. C. van Oorschot, S. A. Vanstone, [*Handbook of Applied Cryptography*](http://www.cacr.math.uwaterloo.ca/hac/), CRC Press.
 
 ### Σύνδεσμοι
- - [International Association for Cryptologic Research](https://www.iacr.org/): Επιστημονική οργάνωση με σκοπό την προώθηση της έρευνας στην κρυπτογραλογία. Διατηρεί το ελεύθερο αποθετήριο προδημοσιεύσεων [ePrint Archive](https://eprint.iacr.org/).
+ - [International Association for Cryptologic Research](https://www.iacr.org/): Επιστημονική οργάνωση με σκοπό την προώθηση της έρευνας στην κρυπτoλογία. Διατηρεί το ελεύθερο αποθετήριο προδημοσιεύσεων [ePrint Archive](https://eprint.iacr.org/).
  - [Cryptopals](https://cryptopals.com/): Μία σειρά 48 κρυπτογραφικών ασκήσεων. Στόχος των ασκήσεων είναι η πρακτική υλοποίηση γνωστών επιθέσεων σε κρυπτογραφικά συστήματα.
  - [CryptoHack](https://cryptohack.org/): Πλατφόρμα με κρυπτογραφικά προβλήματα, πολλά από τα οποία απαιτούν αλληλεπίδραση με την πλατφόρμα.
 
