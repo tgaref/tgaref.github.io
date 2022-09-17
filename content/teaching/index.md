@@ -5,7 +5,7 @@ ishome = false
 @@block
 @@content
 
-\box{Χειμερινό 2022: [ΜΕΜ112 Εισαγωγή στη Γραμμική Άλγεβρα]()}
+\box{Χειμερινό 2022: [ΜΕΜ112 Εισαγωγή στη Γραμμική Άλγεβρα](https://polyhedron.math.uoc.gr/2223/moodle/course/view.php?id=4)}
 
 ## Προηγουμενα εξαμηνα
 
