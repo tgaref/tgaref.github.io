@@ -5,11 +5,12 @@ ishome = false
 @@block
 @@content
 
-\box{Εαρινό 2022-23: [ΜΕΜ244 Εφαρμοσμένη Άλγεβρα](https://polyhedron.math.uoc.gr/2223/moodle/course/view.php?id=21#section-0)}
+\box{Χειμερινό 2023-24: [ΒΙΟ-101.1 Εισαγωγή στα Μαθηματικά: Γραμμική Άλγεβρα (ΠΜΣ Βιοπληροφορική)](https://polyhedron.math.uoc.gr/2223/moodle/course/view.php?id=38)}
 
 ## Προηγουμενα Εξαμηνα
 
 ### Προπτυχιακα Μαθηματα
+1. Εαρινό 2022-23: [ΜΕΜ244 Εφαρμοσμένη Άλγεβρα](https://polyhedron.math.uoc.gr/2223/moodle/course/view.php?id=21#section-0)
 1. Χειμερινό 2022-23: [ΜΕΜ112 Εισαγωγή στη Γραμμική Άλγεβρα](https://polyhedron.math.uoc.gr/2223/moodle/course/view.php?id=4)
 1. Χειμερινό 2021-22: [ΜΕΜ112 Εισαγωγή στη Γραμμική Άλγεβρα](https://polyhedron.math.uoc.gr/2122/moodle/course/view.php?id=16)
 1. Χειμερινό 2020-21: [ΜΕΜ112 Εισαγωγή στη Γραμμική Άλγεβρα](https://elearn.uoc.gr/course/view.php?id=2494)
