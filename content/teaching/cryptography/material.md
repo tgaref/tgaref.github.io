@@ -17,7 +17,7 @@ material = "/content/teaching/cryptography/material"
  4. Γ. Αντωνιάδης, Α. Κοντογεώργης, [*Πεπερασμένα σώματα και κρυπτογραφία*](https://repository.kallipos.gr/handle/11419/155), Κάλλιπος.
  5. Ε. Ζάχος, Α. Παγουρτζής, Π. Γροντάς, [*Υπολογιστική Κρυπτογραφία*](https://repository.kallipos.gr/handle/11419/5439), Κάλλιπος.
  6. M. Burmester, Σ. Γκρίτζαλης, Σ. Κάτσικας, Β. Χρυσικόπουλος, [*Σύγχρονη Κρυπτογραφία: Θεωρία και Εφαρμογές*](https://ekdoseis-papasotiriou.gr/products/9789607182760-burmester-mike-sugchroni-kruptografia), εκδόσεις Παπασωτηρίου.
- 7. A. J. Menezes, P. C. van Oorschot, S. A. Vanstone, [*Handbook of Applied Cryptography*](http://www.cacr.math.uwaterloo.ca/hac/), CRC Press.
+ 7. A. J. Menezes, P. C. van Oorschot, S. A. Vanstone, [*Handbook of Applied Cryptography*](https://cacr.uwaterloo.ca/hac/), CRC Press.
  8. V. Shoup, [*A Computational Introduction to Number Theory and Algebra*](https://shoup.net/ntb/), Cambridge University Press.
  9. E. Bach, J. Shallit, [*Algorithmic Number Theory volume 1*](https://mitpress.mit.edu/books/algorithmic-number-theory-volume-1), MIT Press.
  10. J. von zur Gathen, J. Gerhard, [*Modern Computer Algebra*](https://www.cambridge.org/core/books/modern-computer-algebra/DB3563D4013401734851CF683D2F03F0#), Cambridge University Press. 
