@@ -6,6 +6,8 @@ iscalendar = true
 info = "/content/teaching/cryptography/"
 calendar = "/content/teaching/cryptography/calendar"
 material = "/content/teaching/cryptography/material"
+assignments = "/content/teaching/cryptography/assignments"
+announcements = "/content/teaching/cryptography/announcements"
 +++
 \newcommand{\week}[2]{
 @@box

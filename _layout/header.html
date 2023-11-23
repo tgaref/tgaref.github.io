@@ -5,7 +5,6 @@
       <a href="/" class="nav-item">Theodoulos Garefalakis</a>
     </div>        
     <div class="nav-right nav-menu">
-      <a href="/" class="nav-item">Home</a>
       <a href="/content/teaching/" class="nav-item">Teaching</a>
       <a href="/content/research/" class="nav-item">Research</a>
       <a href="/content/cryptocrete/" class="nav-item">Crypto@Crete</a>
@@ -31,9 +30,19 @@
         <span>Πληροφοριες</span>	
       </a>
     </li>
+    <li class={{ if isannouncements }} "active" {{ else }} "inactive" {{ end }}>
+      <a href={{ fill announcements }}>
+        <span>Ανακοινωσεις</span>
+      </a>
+    </li>
     <li class={{ if iscalendar }} "active" {{ else }} "inactive" {{ end }}>
       <a href={{ fill calendar }}>
         <span>Ημερολογιο</span>
+      </a>
+    </li>
+    <li class={{ if isassignments }} "active" {{ else }} "inactive" {{ end }}>
+      <a href={{ fill assignments }}>
+        <span>Εργασίες</span>
       </a>
     </li>
     <li class={{ if ismaterial }} "active" {{ else }} "inactive" {{ end }}>

@@ -17,6 +17,8 @@ The website_* must be defined for the RSS to work
 @def isinfo = false
 @def iscalendar = false
 @def ismaterial = false
+@def isassignments = false
+@def isannouncements = false
 
 @def div_content = "container"
 
