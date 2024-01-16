@@ -5,6 +5,7 @@ ishome = false
 @@block
 @@content
 
+\box{Εαρινό 2023-24: [ΜΕΜ106 Γραμμική Άλγεβρα Ι](https://polyhedron.math.uoc.gr/2223/moodle/course/view.php?id=46)}
 \box{Χειμερινό 2023-24: [ΒΙΟ-101.1 Εισαγωγή στα Μαθηματικά: Γραμμική Άλγεβρα (ΠΜΣ Βιοπληροφορική)](https://polyhedron.math.uoc.gr/2223/moodle/course/view.php?id=38)}
 
 ## Προηγουμενα Εξαμηνα
@@ -14,10 +15,10 @@ ishome = false
 1. Χειμερινό 2022-23: [ΜΕΜ112 Εισαγωγή στη Γραμμική Άλγεβρα](https://polyhedron.math.uoc.gr/2223/moodle/course/view.php?id=4)
 1. Χειμερινό 2021-22: [ΜΕΜ112 Εισαγωγή στη Γραμμική Άλγεβρα](https://polyhedron.math.uoc.gr/2122/moodle/course/view.php?id=16)
 1. Χειμερινό 2020-21: [ΜΕΜ112 Εισαγωγή στη Γραμμική Άλγεβρα](https://elearn.uoc.gr/course/view.php?id=2494)
-1. Εαρινό 2019-20: [ΜΕΜ103 Θεμέλια των Μαθηματικών](https://polygon.math.uoc.gr/1920/moodle/course/view.php?id=8#section-0)
-1. Εαρινό 2018-19: [ΜΕΜ222 Άλγεβρα ΙΙ](https://polygon.math.uoc.gr/1819/moodle/course/view.php?id=16)
-1. Εαρινό 2017-18: [ΜΕΜ204 Θεωρία Αριθμών](https://polygon.math.uoc.gr/1718/moodle/course/view.php?id=8)
-1. Χειμερινό 2017-18: [ΜΕΜ112 Εισαγωγή στη Γραμμκή Άλγεβρα](https://polygon.math.uoc.gr/1718/moodle/course/view.php?id=5)
+1. Εαρινό 2019-20: [ΜΕΜ103 Θεμέλια των Μαθηματικών](https://polyhedron.math.uoc.gr/1920/moodle/course/view.php?id=8)
+1. Εαρινό 2018-19: [ΜΕΜ222 Άλγεβρα ΙΙ](https://polyhedron.math.uoc.gr/1819/moodle/course/view.php?id=16)
+1. Εαρινό 2017-18: [ΜΕΜ204 Θεωρία Αριθμών](https://polyhedron.math.uoc.gr/1718/moodle/course/view.php?id=8)
+1. Χειμερινό 2017-18: ΜΕΜ112 Εισαγωγή στη Γραμμκή Άλγεβρα
 1. Εαρινό 2016-17: [ΜΕΜ244 Εφαρμοσμένη Άλγεβρα](http://euler.math.uoc.gr/~moodle/moodle1617/course/view.php?id=8)
 1. Χειμερινό 2016-17: [ΜΕΜ103 Θεμέλια των Μαθηματικών](http://euler.math.uoc.gr/~moodle/moodle1617/course/view.php?id=2)
 1. Χειμερινό 2015-16: ΜΕΜ102 Γεωμετρία και Γραμμική Άλγεβρα
