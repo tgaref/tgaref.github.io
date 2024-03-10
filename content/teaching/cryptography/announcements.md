@@ -1,7 +1,6 @@
 +++
 title = "Α31 Κρυπτογραφια"
 ishome = false
-iscourse = true
 isannouncements = true
 info = "/content/teaching/cryptography/"
 calendar = "/content/teaching/cryptography/calendar"
@@ -18,6 +17,8 @@ announcements = "/content/teaching/cryptography/announcements"
 #2
 @@
 }
+
+\coursenav
 
 @@block
 @@content

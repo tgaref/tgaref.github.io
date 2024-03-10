@@ -5,7 +5,7 @@ html {
 }
 
 body {
-    font-family: Roboto Slab, Noto Serif, Fira Sans, Ubuntu, Arial;
+    font-family: Noto Sans, Ubuntu, Roboto Slab, Noto Serif, Fira Sans, Arial;
     font-weight: normal;
     font-size  : 22px;
 }
@@ -26,8 +26,8 @@ nav li {
 
 nav .nav-right .nav-item {
     text-decoration: none;
-    font-family: Merriweather Sans, "Fira Sans", "Lucida Console", Monaco, monospace;
-    font-size: 26px;
+    font-family: Ubuntu, Merriweather Sans, Fira Sans, Lucida Console, Monaco, monospace;
+    font-size: 30px;
     font-weight: medium;
     font-variant: small-caps;
     float: center;
@@ -41,8 +41,8 @@ nav .nav-right .nav-item {
 
 nav .nav-left .nav-item {
     text-decoration: none;
-    font-family: Merriweather Sans, "Fira Sans", "Lucida Console", Monaco, monospace;
-    font-size: 26px;
+    font-family: Ubuntu, Merriweather Sans, Fira Sans, Lucida Console, Monaco, monospace;
+    font-size: 30px;
     font-weight: medium;
     font-variant: small-caps;
     float: center;
@@ -68,18 +68,18 @@ nav .nav-left .nav-item {
 
 .course-tabs > ul > li.inactive > a{
     text-decoration: none;
-    font-family: "Fira Sans", "Lucida Console", Monaco, monospace;
-    font-size: 26px;
+    font-family: Ubuntu, Fira Sans, Lucida Console, Monaco, monospace;
+    font-size: 28px;
     font-weight: medium;
-    font-variant: small-caps;
+    font-variant: all-small-caps;
 }
 
 .course-tabs > ul > li.active > a{
     text-decoration: none;
-    font-family: "Fira Sans", "Lucida Console", Monaco, monospace;
-    font-size: 26px;
+    font-family: Ubuntu, Fira Sans, Lucida Console, Monaco, monospace;
+    font-size: 28px;
     font-weight: medium;
-    font-variant: small-caps;
+    font-variant: all-small-caps;
     background-color: #acdcca;
 }
 
@@ -98,7 +98,8 @@ nav .nav-left .nav-item {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-variant: small-caps;
+    font-family: Ubuntu;
+    font-variant: all-petite-caps;
 }
 
 a {

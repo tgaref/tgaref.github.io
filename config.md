@@ -13,7 +13,6 @@ The website_* must be defined for the RSS to work
 
 @def ishome = false
 
-@def iscourse = false
 @def isinfo = false
 @def iscalendar = false
 @def ismaterial = false
@@ -41,3 +40,36 @@ For instance:
 @@box
 #1
 @@}
+\newcommand{\coursenav}{
+~~~
+  <div class="tabs is-toggle is-fullwidth course-tabs">
+  <ul>
+    <li class={{ if isinfo }} "active" {{ else }} "inactive" {{ end }}>
+      <a href={{ fill info }}>
+        <span>Πληροφοριες</span>	
+      </a>
+    </li>
+    <li class={{ if isannouncements }} "active" {{ else }} "inactive" {{ end }}>
+      <a href={{ fill announcements }}>
+        <span>Ανακοινωσεις</span>
+      </a>
+    </li>
+    <li class={{ if iscalendar }} "active" {{ else }} "inactive" {{ end }}>
+      <a href={{ fill calendar }}>
+        <span>Ημερολογιο</span>
+      </a>
+    </li>
+    <li class={{ if isassignments }} "active" {{ else }} "inactive" {{ end }}>
+      <a href={{ fill assignments }}>
+        <span>Εργασιες</span>
+      </a>
+    </li>
+    <li class={{ if ismaterial }} "active" {{ else }} "inactive" {{ end }}>
+      <a href={{ fill material }}>
+        <span>Διδακτικο Υλικο</span>
+      </a>
+    </li>
+  </ul>
+  </div>  
+~~~
+}
