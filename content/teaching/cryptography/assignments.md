@@ -1,5 +1,5 @@
 +++
-title = "Α31 Κρυπτογραφια"
+title = "Α31 Κρυπτογραφία"
 ishome = false
 isassignments = true
 info = "/content/teaching/cryptography/"
