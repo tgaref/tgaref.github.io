@@ -1,6 +1,5 @@
 +++
 title = "Α31 Κρυπτογραφία"
-ishome = false
 iscalendar = true
 info = "/content/teaching/cryptography/"
 calendar = "/content/teaching/cryptography/calendar"

@@ -1,6 +1,5 @@
 +++
 title = "Α31 Κρυπτογραφία"
-ishome = false
 isassignments = true
 info = "/content/teaching/cryptography/"
 calendar = "/content/teaching/cryptography/calendar"
@@ -14,14 +13,14 @@ announcements = "/content/teaching/cryptography/announcements"
 @@block
 @@content
 
-### Φυλλαδια Ασκησεων
+### Φυλλάδια Ασκ'ησεων
 - [1ο φυλλάδιο](../crypto-assign-2022-1.pdf)
 - [2ο φυλλάδιο](../crypto-assign-2022-2.pdf)
 - [3ο φυλλάδιο](../crypto-assign-2022-3.pdf)
 - [4ο φυλλάδιο](../crypto-assign-2022-4.pdf)
 
 
-### Προαιρετικες Εργασιες
+### Προαιρετικές Εργασίες
 - [1η εργασία](../assign-1)
 - [2η εργασία](../assign-2)
 - [3η εργασία](../assign-3)

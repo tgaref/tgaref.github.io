@@ -1,6 +1,5 @@
 +++
 title = "Research"
-ishome = false
 +++
 \newcommand{\pubWithLink}[2]{
 @@box 

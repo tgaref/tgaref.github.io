@@ -1,6 +1,5 @@
 +++
 title = "Crypto@Crete"
-ishome = false
 +++
 
 @@block
