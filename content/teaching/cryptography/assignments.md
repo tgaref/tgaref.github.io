@@ -13,7 +13,7 @@ announcements = "/content/teaching/cryptography/announcements"
 @@block
 @@content
 
-### Φυλλάδια Ασκ'ησεων
+### Φυλλάδια Ασκήσεων
 - [1ο φυλλάδιο](../crypto-assign-2022-1.pdf)
 - [2ο φυλλάδιο](../crypto-assign-2022-2.pdf)
 - [3ο φυλλάδιο](../crypto-assign-2022-3.pdf)
