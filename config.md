@@ -34,8 +34,13 @@ pages. It can be math commands but does not need to be.
 For instance:
 * \newcommand{\phrase}{This is a long phrase to copy.}
 -->
+\newcommand{\an}[1]{\langle #1 \rangle}
 \newcommand{\R}{\mathbb R}
+\newcommand{\Z}{\mathbb Z}
+\newcommand{\F}{\mathbb F}
+\newcommand{\ff}[1]{{\mathbb F}_{#1}}
 \newcommand{\scal}[1]{\langle #1 \rangle}
+\newcommand{\wt}{\mathrm{wt}}
 \newcommand{\box}[1]{
 @@box
 #1

@@ -1,3 +1,44 @@
+:root{
+    --main-bg-color: #fffdff;
+    --box-bg-color: #fffdff;
+}
+
+.box{
+    background-color: var(--box-bg-color);
+}
+
+.footer{
+    background-color: var(--main-bg-color);
+}
+
+.navbar {
+    display: inline-block;
+    background-color: var(--main-bg-color);
+}
+
+.section-title {
+    font-family: Fira Sans, Noto Sans, Roboto Slab, Noto Serif, Fira Sans, Arial;
+    font-weight: normal;
+    font-size  : 24px;
+    font-weight: semi-bold;
+    font-variant: small-caps;
+}
+
+.section-subtitle {
+    font-family: Fira Sans, Noto Sans, Roboto Slab, Noto Serif, Fira Sans, Arial;
+    font-weight: normal;
+    font-size  : 22px;
+    font-weight: medium;
+    font-variant: small-caps;
+}
+
+.page-title {
+    font-family: Fira Sans, Noto Sans, Roboto Slab, Noto Serif, Fira Sans, Arial;
+    font-weight: normal;
+    font-size  : 35px;
+    font-weight: semi-bold;
+    font-variant: small-caps;
+}
 
 html {
     color: #1c1c1c;
@@ -8,11 +49,12 @@ body {
     font-family: Fira Sans, Noto Sans, Roboto Slab, Noto Serif, Fira Sans, Arial;
     font-weight: normal;
     font-size  : 22px;
+    background-color: var(--main-bg-color);
 }
 
 nav {
-    width: 100%;
-    display: inline-block;
+    width: 100%;    
+    display: inline-block; 
     float: center;
 }
 
@@ -22,38 +64,59 @@ nav ul {
     margin-bottom: 0; }
 
 nav li {
-    display: inline-block;}
+    display: inline-block;
+}
 
-nav .nav-right .nav-item {
+.navbar-brand {
     text-decoration: none;
     font-family: Fira Sans, Ubuntu, Merriweather Sans, Noto Sans, Lucida Console, Monaco, monospace;
-    font-size: 30px;
+    font-size: 28px;
     font-weight: medium;
     font-variant: small-caps;
-    float: center;
-    padding-top: 10px;
-    padding-right:2px;
-    padding-left:2px;
-    padding-bottom:5px;
-    margin-left:20px;
-    margin-right:0px;
-    transition: color 0.3s ease; }
-
-nav .nav-left .nav-item {
-    text-decoration: none;
-    font-family: Fira Sans, Ubuntu, Merriweather Sans, Noto Sans, Lucida Console, Monaco, monospace;
-    font-size: 30px;
-    font-weight: medium;
-    font-variant: small-caps;
-    float: center;
-    padding-top: 10px;
-    padding-right:2px;
-    padding-left:2px;
-    padding-bottom:5px;
+    float: left;
     margin-left:0px;
-    margin-right:0px;
+    margin-right:20px; 
     transition: color 0.3s ease;
 }
+
+.navbar-start .navbar-item {
+    text-decoration: none;
+    font-family: Fira Sans, Ubuntu, Merriweather Sans, Noto Sans, Lucida Console, Monaco, monospace;
+    font-size: 28px;
+    font-weight: medium;
+    font-variant: small-caps;
+    float: left;
+/*    padding-right:10px;
+    padding-left:0px;
+    padding-top: 10px;
+    padding-bottom:5px;
+*/
+    margin-left:0px;
+    margin-right:20px; 
+    transition: color 0.3s ease; }
+
+.navbar-end .navbar-item {
+    text-decoration: none;
+    font-family: Fira Sans, Ubuntu, Merriweather Sans, Noto Sans, Lucida Console, Monaco, monospace;
+    font-size: 28px;
+    font-weight: medium;
+    font-variant: small-caps;
+    float: center;
+/*    padding-right:0px;
+    padding-left:20px;
+    padding-top: 10px;
+    padding-bottom:5px;
+*/
+    margin-left:0px;
+    margin-right:0px; 
+    transition: color 0.3s ease;
+}
+
+/*
+.navbar-item:hover{
+    color: #1765a6;
+}
+*/
 
 .course-tabs > ul > li {
     float: center;
@@ -80,7 +143,8 @@ nav .nav-left .nav-item {
     font-size: 26px;
     font-weight: medium;
     font-variant: all-small-caps;
-    background-color: #acdcca;
+    background-color: #acdcca; 
+/*    background-color: #00b7bb; */
 }
 
 
@@ -99,17 +163,28 @@ nav .nav-left .nav-item {
 
 h1, h2, h3, h4, h5, h6 {
     font-family: Noto Sans, Ubuntu;
-    font-weight: medium;
-/*    font-variant: all-small-caps; */
+    font-weight: normal;
+    font-variant: all-small-caps;
 }
+
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+    font-weight: normal;
+/*    color : #1c1c1c; */
+}
+
+h4 a {
+    font-size: 30px;
+}
+
+h5 a {
+    font-size: 26px;
+}
+
 
 a {
     color : #1765a6;
 }
 
-h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-    color : #1c1c1c;
-}
 
 .stacked {
     padding-top: 40px;
@@ -118,4 +193,8 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 
 #icon {
     vertical-align: middle;
+}
+
+.calendar-entry {
+    padding: 0.6rem;    
 }

@@ -1,20 +1,22 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
 <div class="container">
-<nav class="nav">
-    <div class="nav-left">
-      <a href="/" class="nav-item">Theodoulos Garefalakis</a>
-    </div>        
-    <div class="nav-right nav-menu">
-      <a href="/content/teaching/" class="nav-item">Teaching</a>
-      <a href="/content/research/" class="nav-item">Research</a>
-      <a href="/content/activities/" class="nav-item">Activities</a>
-      <a href="/content/contact/" class="nav-item">Contact</a>
+  <nav class="navbar is-transparent" role="navigation">
+    <div class="navbar-brand">
+      <a href="/" class="navbar-item">Theodoulos Garefalakis</a>
     </div>
-</nav>
+    <div class="navbar-menu">
+      <div class="navbar-end">
+	<a class="navbar-item" href="/content/teaching/">Teaching</a>
+	<a class="navbar-item" href="/content/research/">Research</a>
+	<a class="navbar-item" href="/content/activities/">Activities</a>
+      </div>
+    </div>
+  </nav>
 <br> <br>
   {{ ifdef title }}
   <div class="block">
-    <h1 class="title is-1"> {{ fill title }} </h1>
+    <span class="page-title"> {{ fill title }} </span>
     <hr>
   </div>
   {{ end }}

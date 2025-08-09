@@ -11,7 +11,7 @@ title = "Research"
 @@content
 My research interests include theoretical and algorithmic aspects of finite fields, cryptography, coding theory and combinatorics. 
 
-### Journal Publications
+#### Journal Publications
 1. T. Garefalakis, G. Kapetanakis,  Further results on the Morgan-Mullen conjecture, *Designs Codes and Cryptography*, **87**, 2639 - 2654, 2019. [[pdf]](../../assets/publications/cn-bound-rev2.pdf)
 
 1. T. Garefalakis, G. Kapetanakis, On the existence of primitive completely normal bases of finite fields, *Journal of Pure and Applied Algebra*, **223**(3), 909 - 921, 2019.[[pdf]](../../assets/publications/pcnu-01.pdf)
@@ -57,7 +57,7 @@ My research interests include theoretical and algorithmic aspects of finite fiel
 1. T. Garefalakis, D. Panario, The Index Calculus Method Using Non-Smooth Polynomials, *Mathematics of Computation*, **70**(235), 1253 - 1264, 2001. [[pdf]](../../assets/publications/dlpj.pdf)
 
 
-### Conference Publications
+#### Conference Publications
 1. M. Christopoulou, T. Garefalakis, D. Panario, D. Thomson, The trace of an optimal normal element and low complexity normal bases, *Proc.of the Workshop on Coding and Cryptography*, 2007, INRIA, 79 - 88, 2007.
 
 1. T. Garefalakis, C.J. Mitchell, Securing Personal Area Networks, *13th IEEE International Symposium on Personal, Indoor and Mobile Radio Communications*, Lisboa, Portugal, 2002, pp. 1257 - 1259. [[pdf]](../../assets/publications/perid_f.pdf)
