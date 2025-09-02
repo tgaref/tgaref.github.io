@@ -1,0 +1,1 @@
+rsync -vaHz --delete --delete-excluded --exclude --info=progress -e "ssh" __site/ tgaref@gauss.math.uoc.gr:/home/profs/tgaref/public_html/
