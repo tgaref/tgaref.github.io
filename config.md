@@ -78,3 +78,27 @@ For instance:
   </div>  
 ~~~
 }
+
+\newcommand{\week}[2]{
+@@box,calendar-entry
+~~~
+    <div x-data="{ open: false }"><p>
+    <a @click="open = ! open"><strong>#1</strong></a>
+    <div x-show="open">
+~~~
+#2
+~~~
+	</div></p>
+</div>
+~~~
+@@
+}
+
+\newcommand{\tell}[2]{
+@@box
+~~~ 
+<h4 class="title is-5 has-text-primary-dark"><b>#1</b></h4>
+~~~ 
+#2
+@@
+}

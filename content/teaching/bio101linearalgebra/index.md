@@ -1,5 +1,6 @@
 +++
 title = "ΒΙΟ-101.1 Εισαγωγή στα Μαθηματικά: Γραμμική Άλγεβρα"
+course = true
 isinfo = true
 info = "/content/teaching/bio101linearalgebra/"
 calendar = "/content/teaching/bio101linearalgebra/calendar"
@@ -8,12 +9,7 @@ assignments = "/content/teaching/bio101linearalgebra/assignments"
 announcements = "/content/teaching/bio101linearalgebra/announcements"
 +++
 
-\coursenav
-
-@@block
-@@content
-
-### Γενικές Πληροφορίες
+### Γενικες Πληροφοριες
 
 |                    |                                                                                                                                                                                                                                                                                              |
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -23,10 +19,6 @@ announcements = "/content/teaching/bio101linearalgebra/announcements"
 
 
 
-### Περιγραφή του μαθήματος
+### Περιγραφη του μαθηματος
 Στο μάθημα θα δούμε βασικές έννοιες της Γραμμικής Άλγεβρας. Θα επικεντρωθούμε στους χώρους $\mathbb{R}^n$ και $\mathbb{C}^n$.
 Μπορείτε να βρείτε την ύλη του μαθήματος [εδώ](./syllabus.pdf).
-
-
-@@
-@@

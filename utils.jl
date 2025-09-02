@@ -1,16 +1,7 @@
-function hfun_bar(vname)
-  val = Meta.parse(vname[1])
-  return round(sqrt(val), digits=2)
-end
+using Dates
 
-function hfun_m1fill(vname)
-  var = vname[1]
-  return pagevar("index", var)
-end
-
-function lx_baz(com, _)
-  # keep this first line
-  brace_content = Franklin.content(com.braces[1]) # input string
-  # do whatever you want here
-  return uppercase(brace_content)
+function hfun_today()
+    dt = Dates.today()
+    month = monthname(dt)
+    return "$month $(day(dt)), $(year(dt))"
 end

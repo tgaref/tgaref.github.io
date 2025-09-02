@@ -1,5 +1,6 @@
 +++
 title = "ΒΙΟ-101.1 Εισαγωγή στα Μαθηματικά: Γραμμική Άλγεβρα"
+course = true
 iscalendar = true
 info = "/content/teaching/bio101linearalgebra/"
 calendar = "/content/teaching/bio101linearalgebra/calendar"
@@ -7,32 +8,8 @@ material = "/content/teaching/bio101linearalgebra/material"
 assignments = "/content/teaching/bio101linearalgebra/assignments"
 announcements = "/content/teaching/bio101linearalgebra/announcements"
 +++
-\newcommand{\week}[2]{
-@@box,calendar-entry
-~~~
-    <div x-data="{ open: false }">
-    <a @click="open = ! open"><strong>#1</strong></a>
-    <br><br>
-    <div x-show="open">
-~~~
-	#2
-~~~
-	</div>
-</div>
-~~~
-@@
-}
 
-\coursenav
-
-\newcommand{\span}{\mathrm{span}}
-\newcommand{\id}{\mathrm{id}}
-\newcommand{\an}[1]{\langle #1\rangle}
-
-@@block
-@@content
-
-### Ημερολόγιο μαθήματος
+### Ημερολογιο μαθηματος
 
 \week{Εβδομάδα 1: 30/9/2024 - 6/10/2024}{
 Ένα σύστημα $m$ γραμμικών εξισώσεων σε $n$ αγνώστους (ή πιο σύντομα ένα $m\times n$ γραμμικό σύστημα) είναι ένα σύστημα
@@ -484,6 +461,3 @@ $1\leq m_i \leq n_i = 1$, οπότε $n = m_1+\cdots+m_n$ και ο πίνακα
 
 **Διαβάστε:** Παρ. 1.7 από τις σημειώσεις [2].
 }
-
-@@
-@@

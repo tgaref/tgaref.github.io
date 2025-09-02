@@ -1,5 +1,6 @@
 +++
 title = "Α31 Κρυπτογραφία"
+course = true
 isinfo = true
 info = "/content/teaching/cryptography/"
 calendar = "/content/teaching/cryptography/calendar"
@@ -8,12 +9,7 @@ assignments = "/content/teaching/cryptography/assignments"
 announcements = "/content/teaching/cryptography/announcements"
 +++
 
-\coursenav
-
-@@block
-@@content
-
-### Γενικές Πληροφορίες
+### Γενικες Πληροφοριες
 
 ~~~
 <table>
@@ -37,13 +33,9 @@ announcements = "/content/teaching/cryptography/announcements"
 </table>
 ~~~
 
-### Περιγραφή του μαθήματος
+### Περιγραφη του μαθηματος
 Στο μάθημα θα δούμε τα βασικά προβλήματα τα οποία επιχειρεί να λύσει η κρυπτογραφία, καθώς και 
 τις μεθόδους που έχουν αναπτυχθεί έως τώρα. Θα ασχοληθούμε τόσο με συμμετρική κρυπτογραφία όσο και
 με κρυπτογραφία δημόσιου κλειδιού. Θα εξετάσουμε τι σημαίνει ο όρος "ασφάλεια", ανάλογα με το 
 πρόβλημα που επιχειρούμε να λύσουμε, θα δώσουμε σχετικούς ορισμούς και θα δούμε κατασκευές σχετικών
 κρυπτογραφικών συστημάτων. Μπορείτε να βρείτε την ύλη του μαθήματος [εδώ](./syllabus.pdf).
-
-
-@@
-@@

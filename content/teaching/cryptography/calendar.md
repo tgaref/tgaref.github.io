@@ -1,5 +1,6 @@
 +++
 title = "Α31 Κρυπτογραφία"
+course = true
 iscalendar = true
 info = "/content/teaching/cryptography/"
 calendar = "/content/teaching/cryptography/calendar"
@@ -7,18 +8,8 @@ material = "/content/teaching/cryptography/material"
 assignments = "/content/teaching/cryptography/assignments"
 announcements = "/content/teaching/cryptography/announcements"
 +++
-\newcommand{\week}[1]{
-@@box,calendar-entry
-#1
-@@
-}
 
-\coursenav
-
-@@block
-@@content
-
-### Ημερολόγιο μαθήματος
+### Ημερολογιο μαθηματος
 
 @@box,calendar-entry
 **Εβδομάδα 1: 14/2/2022 - 20/2/2022**
@@ -221,7 +212,4 @@ function που χρησιμοποιείται είναι Random Oracle. Ως σ
 **Εβδομάδα 13: 23/5/2022 - 29/5/2022**
 
 Συζητήσαμε τις προγραμματιστικές εργασίες 1-4 και είδαμε κάποιες ενδεικτικές λύσεις.
-@@
-
-@@
 @@

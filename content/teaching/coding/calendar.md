@@ -1,5 +1,6 @@
 +++
 title = "Α32 Κωδικοποίηση"
+course = true
 iscalendar = true
 info = "/content/teaching/coding/"
 calendar = "/content/teaching/coding/calendar"
@@ -8,28 +9,7 @@ assignments = "/content/teaching/coding/assignments"
 announcements = "/content/teaching/coding/announcements"
 +++
 
-\newcommand{\week}[2]{
-@@box,calendar-entry
-~~~
-    <div x-data="{ open: false }">
-    <a @click="open = ! open"><strong>#1</strong></a>
-    <br><br>
-    <div x-show="open">
-~~~
-	#2
-~~~
-	</div>
-</div>
-~~~
-@@
-}
-
-\coursenav
-
-@@block
-@@content
-
-### Ημερολόγιο μαθήματος
+### Ημερολογιο μαθηματος
 
 \week{Εβδομάδα 1: 23/9/2024 - 29/9/2024}{
 Ένας _κώδικας_ μήκους $n$ πάνω από ένα αλφάβητο $\Sigma$ με $q$ σύμβολα
@@ -271,7 +251,7 @@ $\GRS{k}{\alpha}{v}^{\perp} = \GRS{n-k}{\alpha}{v'}$, όπου το διάνυσ
 }
 
 \week{Εβδομάδα 11: 2/12/2024 - 8/12/2024}{
-	Δεν έγιναν μαθήματα.
+	Δεν έγιναν μαθήματα.  	  
 }
 
 \week{Εβδομάδα 12: 9/12/2024 - 15/12/2024}{
@@ -297,6 +277,3 @@ $\GRS{k}{\alpha}{v}^{\perp} = \GRS{n-k}{\alpha}{v'}$, όπου το διάνυσ
 \week{Εβδομάδα 13: 16/12/2024 - 22/12/2024}{
 Λύσαμε τις ασκήσεις των φυλλαδίων 4 και 5.
 }
-
-@@
-@@

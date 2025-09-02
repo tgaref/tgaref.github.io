@@ -162,7 +162,7 @@ nav li {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: Noto Sans, Ubuntu;
+    font-family: Fira Sans, Noto Sans, Ubuntu;
     font-weight: normal;
     font-variant: all-small-caps;
 }
@@ -195,6 +195,6 @@ a {
     vertical-align: middle;
 }
 
-.calendar-entry {
-    padding: 0.6rem;    
+.box.calendar-entry {
+    padding-top: 20px;
 }
